@@ -67,8 +67,8 @@ class TestUserModels(TestCase):
         self.contact = Contact.objects.create(
             street_address='123 Test St',
             zip_code='12345',
-            state='NY',
-            phone_number='555-1234',
+            state='CA',
+            phone_number='209-555-1234',
         )
         self.user = User.objects.create_user(
             email='testuser@example.com',
