@@ -1,0 +1,2 @@
+GET http://localhost:8000/api/products/8e1d4b99-02db-41a1-aab6-fc098728bdc4/ HTTP/1.1
+Content-Type: application/json

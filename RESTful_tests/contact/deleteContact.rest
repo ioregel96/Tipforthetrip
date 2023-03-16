@@ -1,0 +1,2 @@
+DELETE http://localhost:8000/api/users/contact/manage/581463f6-0699-4433-a36f-d26a1ad87597 HTTP/1.1
+Content-Type:application/json

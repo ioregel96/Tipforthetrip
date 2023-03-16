@@ -1,0 +1,9 @@
+POST http://localhost:8000/api/users/contact/manage/581463f6-0699-4433-a36f-d26a1ad87597 HTTP/1.1 
+Content-Type: application/json
+
+{
+    "street_address": "123344234234242323434343 stresetgsdvet avenue",
+    "zip_code": "12345",
+    "state": "California",
+    "phone_number": "1234567890"
+}
